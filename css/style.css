@@ -1,0 +1,121 @@
+html{
+	background-color: #0B0B61;
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: #CED8F6;
+	width: 750px;
+	margin: 0 auto;
+}
+/*estructuras principales*/
+header{
+	background-color: blue;
+	width: 750px;
+	height: 100px;
+}
+nav{
+	background-color: #0B0B61;
+	width: 750px;
+	height: 60px;
+	text-align: center;
+
+}
+main{
+	background-color: orange;
+	width: 750px;
+	height: 400px;
+}
+footer{
+	background-color: #0B0B61;
+	width: 750px;
+	height: 60px;
+}
+#Banner{
+	background: white;
+	width: 550px;
+	height: 100px;
+	float: left;
+}
+#logo{
+	background-color: white;
+	width: 200px;
+	height: 100px;
+	float: left;
+	align-content: center;
+}
+#left{
+	background-color: magenta;
+	width: 250px;
+	height: 400px;
+	float: left;
+}
+#cright{
+	background-color: green;
+	width: 500px;
+	height: 400px;
+	float: left;	
+}
+#art1{
+	background: white;
+	width: 500px;
+	height: 200px;
+	float: left;
+}
+#art2{
+	background: white;
+	width: 500px;
+	height: 200px;
+	float: left;
+}
+
+#imglogo{
+	width: 200px;
+	align-self: center;
+}
+h1{
+	font-family: Tahoma;
+	font size: 70px;
+	color: #071C41;
+	text-align: center;
+	vertical-align: center;
+	padding-top: 12px;
+}
+a{
+	font-family: Tahoma;
+	font-size: 18px;
+	vertical-align: center;
+	color: #0080FF;
+	text-decoration: none;
+	padding-right: 30px;
+	padding-top: 30px;
+}
+#TexWhite{
+	color: white;
+	text-align: center;
+	font-family: tahoma;
+}
+table{
+	margin: auto;
+	width: 70%;
+	border: 1px solid blue
+}
+th{
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 20px;
+	background: #0B0B61;
+	color: white;
+}
+.tr_impar{
+	font-family: tahoma;
+	font-size: 18px;
+	color: #0B0B61;	
+	background: #A9BCF5;
+}
+.tr_par{
+	font-family: tahoma;
+	font-size: 18px;
+	color: #0B0B61;	
+	background: #CEECF5;
+}
